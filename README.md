@@ -5,4 +5,4 @@ Interested in:
   - security
   
 Working as:
-  - junior app developer
+  - frontend developer (VUE)
