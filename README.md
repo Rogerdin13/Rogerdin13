@@ -6,3 +6,4 @@ Interested in:
   
 Working as:
   - frontend developer (VUE)
+  - project owner
